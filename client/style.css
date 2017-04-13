@@ -1,0 +1,29 @@
+#form-numbers, #new-factor, .form-submit{
+	width: 200px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#form-numbers, #new-factor, .form-submit> div{
+	padding: 10px 20px;
+}
+
+hr, input[type=text] {
+	width: 80px;
+	font-size: 36px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+#new-factor button, .form-submit button{
+	font-size: 20px;
+	margin-top: 10px;
+	border-radius: 25px;
+	background-color: black;
+	color: white;
+}
+
+.sum {
+	font-size: 48px;
+	font-weight: bold;
+}
