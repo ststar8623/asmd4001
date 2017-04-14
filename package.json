@@ -1,7 +1,7 @@
 {
-  "name": "Multiplicatron",
+  "name": "asmd4001",
   "version": "0.1.0",
-  "description": "Sample app showing simple multipling function deployed to cloud",
+  "description": "Sample app showing math function deployed to cloud",
   "main": "server/server.js",
   "scripts": {
     "postinstall": "browserify client/app.js -o client/bundle.js",
